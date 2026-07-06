@@ -23,6 +23,20 @@
 </p>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 14.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 175 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+
+ Last Updated on 06/07/2026 19:02:38 UTC
 <!--END_SECTION:waka-->
 
 ### Quote
