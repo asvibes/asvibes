@@ -1,5 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:72BBCE,25:8DC8D8,50:A7D5E1,75:C2E2EA,100:DCEEF3&height=220&section=header)
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
+# Hi, I'm Shreya 👋
+
+🎓 **B.Tech CSE (AI & ML) Student**
+
+💻 Aspiring AI/ML Engineer with an interest in Artificial Intelligence, Machine Learning, Full-Stack Development, and Open Source.
+
+🌱 Currently learning DSA, AI/ML, and building projects.
+
+</td>
+
+<td valign="top" align="center" width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320">
+
+</td>
+</tr>
+</table>
+
+
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-das-834b34368/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaarush2015@gmail.com)
@@ -14,5 +38,5 @@
 ### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:72BBCE,25:8DC8D8,50:A7D5E1,75:C2E2EA,100:DCEEF3&height=220&section=header)
+
 
