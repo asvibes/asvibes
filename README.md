@@ -22,6 +22,9 @@
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=asvibes&bg_color=ffffff&color=24292e&title_color=24292e&line=72BBCE&point=72BBCE&area=true&area_color=CFEFF6&hide_border=true&custom_title=GitHub%20Activity" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
