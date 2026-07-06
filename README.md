@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Shreya%20Das&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Student%20%7C%20Open%20Source%20Contributor&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:72BBCE,25:8DC8D8,50:A7D5E1,75:C2E2EA,100:DCEEF3&height=220&section=header)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-das-834b34368/)
@@ -14,5 +14,5 @@
 ### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Shreya%20Das&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Student%20%7C%20Open%20Source%20Contributor&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:72BBCE,25:8DC8D8,50:A7D5E1,75:C2E2EA,100:DCEEF3&height=220&section=header)
 
