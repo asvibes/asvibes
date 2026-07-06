@@ -22,25 +22,11 @@
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=asvibes&bg_color=ffffff&color=24292e&title_color=24292e&line=72BBCE&point=72BBCE&area=true&area_color=CFEFF6&hide_border=true&custom_title=GitHub%20Activity" />
 </p>
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 14.0 kB Used in GitHub's Storage 
- > 
-> 🏆 175 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
 
- Last Updated on 06/07/2026 19:02:38 UTC
-<!--END_SECTION:waka-->
-
-### Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="50%">
+</p>
 
 
 
