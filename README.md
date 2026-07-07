@@ -22,7 +22,14 @@
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=asvibes&bg_color=ffffff&color=24292e&title_color=24292e&line=72BBCE&point=72BBCE&area=true&area_color=CFEFF6&hide_border=true&custom_title=GitHub%20Activity" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asvibes&theme=buefy" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asvibes&theme=buefy" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asvibes&theme=buefy" width="49%" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="50%">
