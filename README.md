@@ -20,15 +20,8 @@
   <a href="mailto:shreyaarush2015@gmail.com">
     <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=55" alt="Email"/>
   </a>
-   &nbsp;
-  <a href="https://leetcode.com/u/slZ5Q4o9xg/">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=55" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/shreyaarush2015">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=hackerrank&size=55&color=%2302d45d" alt="HackerRank"/>
-  </a>
-</p>
+  </p>
+  
 
 
 ## Tech Stack
