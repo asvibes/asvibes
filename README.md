@@ -31,10 +31,7 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=55&color=%233b82f6" alt="Python"/>
   </a>
   &nbsp;
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=flask&size=55&color=%233b82f6" alt="Flask"/>
-  </a>
-  &nbsp;
+  
   <a href="https://www.postgresql.org/">
     <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=55" alt="PostgreSQL"/>
   </a>
