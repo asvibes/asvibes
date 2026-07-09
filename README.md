@@ -10,12 +10,75 @@
 
 
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-das-834b34368/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaarush2015@gmail.com)
+## Socials
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreya-das-834b34368/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=55" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shreyaarush2015@gmail.com">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=55" alt="Email"/>
+  </a>
+   &nbsp;
+  <a href="https://leetcode.com/u/slZ5Q4o9xg/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=55" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/shreyaarush2015">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=hackerrank&size=55&color=%2302d45d" alt="HackerRank"/>
+  </a>
+</p>
+---
+
+## Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=55&color=%233b82f6" alt="Python"/>
+  </a>
+  &nbsp;
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=flask&size=55&color=%233b82f6" alt="Flask"/>
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=55" alt="PostgreSQL"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=55" alt="MySQL"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=55" alt="Git"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=55" alt="JavaScript"/>
+  </a>
+  &nbsp;
+  <a href="https://html.com/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=55" alt="HTML5"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=55" alt="CSS3"/>
+  </a>
+  &nbsp;
+  <a href="https://www.cprogramming.com/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=c&size=55&color=%230b49ad" alt="C"/>
+  </a>
+  &nbsp;
+  <a href="https://www.figma.com/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=55" alt="Figma"/>
+  </a>
+  &nbsp;
+  <a href="https://www.blender.org/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=blender&size=55" alt="Blender"/>
+  </a>
+</p>
+
 # GitHub Stats:
 <p align="center">
   <img width="36%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asvibes&theme=buefy" />
