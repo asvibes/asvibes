@@ -29,7 +29,7 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=hackerrank&size=55&color=%2302d45d" alt="HackerRank"/>
   </a>
 </p>
----
+
 
 ## Tech Stack
 
